@@ -9,4 +9,4 @@ In order to predict whether a patient is likely to have stroke or not, I have us
 Pandas, Numpy, Matplotlib, Seaborn, and SKlearn. 
 
 ## Results & Conclusion 
-After fitting both models, the Decision Trees edges the Logistic Regression with an AUC of 0.85.
+After fitting both models, the Logistic Regression Model edges the Decision Trees Model with an AUC of 0.85.
