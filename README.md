@@ -1,3 +1,6 @@
+## Stroke Prediction using Logistic Regression and Decision Trees.
+
+
 ## Background
 Stroke is  a medical condition in which poor blood flow to the brain causes cell death. This dataset contains multiple variables which can be used to predict if a patient is likely to have stroke or not. Examples of the variables in the data includes:
 Gender, Age, Average Glucose Level, BMI, Residence type, Work type, Hypertension. 
